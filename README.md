@@ -57,8 +57,8 @@ Para tornar as informações mais acessíveis, criei um dashboard interativo no 
 
 - Como visualizar o dashboard:
     - Basta acessar os links abaixo:
-        - Para a primeira visualização mais holística e sintética dos dados [clique aqui](https://public.tableau.com/app/profile/matheus.santos4843/viz/Desafio_Viz_Qtd/Histria1?publish=yes)
-        - Para a primeira visualização geográfica dos dados [clique aqui](https://public.tableau.com/app/profile/matheus.santos4843/viz/Desafio_Viz_Maps/Histria2?publish=yes)
+        - Para uma visualização mais holística e sintética dos dados [clique aqui](https://public.tableau.com/app/profile/matheus.santos4843/viz/Desafio_Viz_Qtd/Histria1?publish=yes)
+        - Para uma visualização geográfica dos dados [clique aqui](https://public.tableau.com/app/profile/matheus.santos4843/viz/Desafio_Viz_Maps/Histria2?publish=yes)
 
 
 # Conclusão
